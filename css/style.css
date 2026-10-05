@@ -10,7 +10,7 @@ height:100vh;
 background-image:url("/Ferienwohnung-luehe/Bilder/Deich-mit-Leuchtturm.jpg");
  
 background-size:cover;
-background-position:center center;
+background-position:center;
 background-repeat:no-repeat;
  
 display:flex;
@@ -19,20 +19,20 @@ align-items:center;
 }
  
 .hero-text{
-background:rgba(0,0,0,0.45);
+background:rgba(0,0,0,0.5);
  
 padding:40px;
  
 border-radius:20px;
  
-color:white;
- 
 text-align:center;
+ 
+color:white;
 }
  
 .hero-text h1{
 font-size:64px;
-margin-bottom:15px;
+margin-bottom:20px;
 }
  
 .hero-text p{
